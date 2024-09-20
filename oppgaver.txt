@@ -16,7 +16,7 @@ slutt for å se om du har gjort det riktig.
 Krav:
 1. Opprett en tom liste
 2. Bruk en for-løkke for å legge til tall I den tomme listen
-3. Skriv ut hele listen. Dette kan gjøres med eller uten en for-løkke.
+3. Skriv ut hele listiughljhgen. Dette kan gjøres med eller uten en for-løkke.
 Oppgave 3: Utvid kalkulator
 På oblig 1 oppgave 3 laget du en mini-kalkulator. Om den kalkulatoren ikke ber om hvilken operator
 som skal brukes, utvid programmet til å inkludere dette slik at det ligner på utskriften under. Legg også
